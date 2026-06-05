@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "title": "Senior iOS Engineer",
+    "company_name": "TechCorp",
+    "location": "San Francisco, CA",
+    "salary_range": "$140,000 - $180,000",
+    "description": "We are seeking a highly skilled Senior iOS Engineer proficient in SwiftUI, Swift concurrency, and modern architecture paradigms. You will spearhead our brand new client application rewrite.",
+    "company_info": "TechCorp is a pioneering tech hub building world-class productivity tools used by millions worldwide."
+  },
+  {
+    "id": "2",
+    "title": "Product Designer",
+    "company_name": "Designly",
+    "location": "Remote (US)",
+    "salary_range": "$110,000 - $135,000",
+    "description": "Join our growing design system team to craft intuitive, delightful web and mobile interactions. Experience with Figma, typography orchestration, and interactive tokens is mandatory.",
+    "company_info": "Designly acts as the design-system-as-a-service backbone for high-growth global startups."
+  },
+  {
+    "id": "3",
+    "title": "Staff Backend Engineer (Go)",
+    "company_name": "CloudScale",
+    "location": "Austin, TX",
+    "salary_range": "$190,000 - $230,000",
+    "description": "Lead architectural overhauls on our distributed core routing nodes. Deep systems understanding of Kafka, gRPC, and high-concurrency Go runtimes is critical.",
+    "company_info": "CloudScale delivers hyper-optimized edge caching networks for next-generation enterprises."
+  }
+]
