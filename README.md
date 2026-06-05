@@ -4,6 +4,24 @@ A modular, production-ready SwiftUI application built to browse, search, and vie
 
 ---
 
+## 📱 Screens
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="./Screenshots/list.png" width="180">
+    </td>
+    <td align="center">
+      <img src="./Screenshots/detail.png" width="180">
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Job Board</b></td>
+    <td align="center"><b>Job Details</b></td>
+  </tr>
+</table>
+
 ## 🏛️ Architecture Explanation
 The codebase enforces a highly scalable Model-View-ViewModel (MVVM) topology coupled with clean Dependency Injection (DI) principles to keep layers decoupled and highly testable.
 
